@@ -1,0 +1,39 @@
+{
+  "name": "Testcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "axios": "^0.18.0",
+    "bcrypt": "^3.0.4",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express-fileupload": "^1.1.1-alpha.1",
+    "init": "^0.1.2",
+    "joi": "^14.3.1",
+    "jsonwebtoken": "^8.4.0",
+    "koa": "^2.6.2",
+    "koa-body": "^4.0.6",
+    "koa-delay": "0.0.2",
+    "koa-router": "^7.4.0",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.11",
+    "lodash.map": "^4.6.0",
+    "lodash.mapkeys": "^4.6.0",
+    "mongoclient": "^1.0.3",
+    "mongoose": "^5.4.11",
+    "node-cache": "^4.2.0",
+    "object-mapper": "^5.0.0",
+    "set-interval": "^2.0.3",
+    "setInterval": "^0.4.9",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
